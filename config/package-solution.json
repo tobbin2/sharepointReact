@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sharepoint-tutorial-w-react-1-client-side-solution",
+    "id": "c28d2bef-3091-4c45-94df-6298095c7df8",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/sharepoint-tutorial-w-react-1.sppkg"
+  }
+}
